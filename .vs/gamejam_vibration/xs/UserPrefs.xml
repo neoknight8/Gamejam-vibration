@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8DF210F5-4A8B-7ACB-38D9-0C825BDBE7A5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SingletonMonoBehavior.cs" Line="50" Column="2" />
+      <File FileName="Assets/Scripts/BoardController.cs" Line="9" Column="28" />
+      <File FileName="Assets/Scripts/Player.cs" Line="64" Column="165" />
+      <File FileName="Assets/Scripts/Wall.cs" Line="25" Column="5" />
+      <File FileName="Assets/Scripts/Goal.cs" Line="46" Column="23" />
+      <File FileName="Assets/Scripts/BallCatcher.cs" Line="23" Column="10" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="39" Column="27" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="32" Column="28" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
